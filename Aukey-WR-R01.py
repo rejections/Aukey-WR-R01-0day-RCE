@@ -1,3 +1,4 @@
+#patched
 #!/usr/bin/env python3
 import requests, sys
 from urllib.parse import quote
